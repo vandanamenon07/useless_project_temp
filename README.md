@@ -10,31 +10,27 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Sreya Sreejith] - [TocH Institute of Science And Technology]
+- Member 2: [Sreya Sreejith] - [TocH Institute of Science And Technology]
+- Member 3: [Vandana Menon] - [TocH Institute of Science And Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Thinnayile Kaaryam is a humorous AI-powered society reaction scanner that predicts how much “society” might react to a user’s life decision. We have combined machine learning and an LLM to generate a fun risk score, gossip reactions, and a fictional neighbourhood verdict based on the decision and environment]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People often hesitate to make personal choices because they worry about what their family, neighbours, and society might say. Thinnayile Kaaryam turns this imaginary social pressure into a fun, interactive experience by simulating the reactions and “gossip” that might follow any decision.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Thinnayile Kaaryam uses AI and machine learning to predict a humorous “Society Risk Score” for any decision. It generates fictional aunty reactions, neighbourhood gossip, WhatsApp-style conversations, and a final society verdict—because apparently, everyone deserves an opinion.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [JavaScript (ES6+)]
+- [React]
+- [Framer Motion]
+- [VS Code,Git,Github,Node.js,npm]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -48,37 +44,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="959" height="452" alt="Screenshot 2026-09-12 101155" src="https://github.com/user-attachments/assets/78a1c708-a736-45a2-bd0a-fc4403bcebb6" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="959" height="451" alt="Screenshot 2026-09-12 101205" src="https://github.com/user-attachments/assets/bbfee155-b361-4f70-a1af-424c377156cd" />
+
+<img width="683" height="448" alt="Screenshot 2026-09-12 101300" src="https://github.com/user-attachments/assets/ad2e2682-30d5-4d68-bd41-c731e03e556c" />
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
