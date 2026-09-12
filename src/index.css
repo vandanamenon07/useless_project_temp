@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body,
+  #root {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100%;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #e87549;
+    color: #173f30;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-syne {
+    font-family: 'Syne', sans-serif;
+  }
+
+  .font-malayalam {
+    font-family: 'Anek Malayalam', sans-serif;
+  }
+}
+
+/* Subtle cinematic noise grain */
+.grain {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0.08;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.8) 0.6px, transparent 0.6px);
+  background-size: 5px 5px;
+}
+
+/* Floating custom speech bubble */
+.speech-bubble-bubble {
+  position: relative;
+  background: #f3d9b7;
+  color: #173f30;
+  border-radius: 50%;
+  box-shadow: 0 6px 0 rgba(23, 63, 48, 0.12);
+}
+
+.speech-bubble-bubble::after {
+  content: "";
+  position: absolute;
+  left: 22px;
+  bottom: -13px;
+  width: 24px;
+  height: 24px;
+  background: #f3d9b7;
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+  transform: rotate(8deg);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f3e4cb;
+}
+::-webkit-scrollbar-thumb {
+  background: #df7046;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #173f30;
+}

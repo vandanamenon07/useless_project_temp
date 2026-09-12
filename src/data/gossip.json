@@ -1,0 +1,58 @@
+{
+  "environments": [
+    {
+      "id": "village",
+      "name": "Village",
+      "malayalam": "ഗ്രാമം / നാട്",
+      "description": "Where everyone knows your grandfather's nickname and news travels at supersonic speed.",
+      "riskMultiplier": 1.4,
+      "tag": "High Surveillance"
+    },
+    {
+      "id": "town",
+      "name": "Town",
+      "malayalam": "ചെറുനഗരം",
+      "description": "Neighbours pretend not to care while peering through window curtains.",
+      "riskMultiplier": 1.15,
+      "tag": "Balcony Network"
+    },
+    {
+      "id": "college",
+      "name": "College",
+      "malayalam": "ക്യാമ്പസ്",
+      "description": "Hostel wardens, canteen philosophers, and 24/7 mutual surveillance.",
+      "riskMultiplier": 1.05,
+      "tag": "Canteen Court"
+    },
+    {
+      "id": "city",
+      "name": "City",
+      "malayalam": "നഗരം",
+      "description": "People mind their own business until your mother receives a forward.",
+      "riskMultiplier": 0.85,
+      "tag": "WhatsApp Vulnerable"
+    }
+  ],
+  "scanningMessages": [
+    "Consulting the neighbours...",
+    "Checking WhatsApp groups...",
+    "Asking the aunty next door...",
+    "Checking what your cousin's mother thinks...",
+    "Calculating unnecessary opinions...",
+    "Finalising your social damage..."
+  ],
+  "quotes": [
+    "“Her cousin's daughter would never do this.”",
+    "“I heard this from someone who knows her.”",
+    "“But why does she need to do this?”",
+    "“In our time, nobody used to do these things.”",
+    "“Just wait, her mother will hear about this.”"
+  ],
+  "verdicts": {
+    "low": "Nobody really cares. Congratulations.",
+    "moderate": "A few aunties noticed.",
+    "high": "The thinnayil has started discussing.",
+    "whatsapp": "Your decision has entered the neighbourhood WhatsApp group.",
+    "extreme": "Congratulations. You are now tomorrow's main topic."
+  }
+}
