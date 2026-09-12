@@ -2,11 +2,11 @@
 
 
 
-# [Project Name] 🎯
+# [Thinnayile Kaaryam] 
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Celestelle🌙🌙]
 
 
 ### Team Members
@@ -26,8 +26,8 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [JavaScript (ES6+)]
-- [React]
+- [JavaScript (ES6+),Python]
+- [React,Flask]
 - [Framer Motion]
 - [VS Code,Git,Github,Node.js,npm]
 
@@ -35,20 +35,22 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+[```bash
+npm install]
 # Run
-[commands]
+[npm run dev]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-
+Main/Title Screen
 <img width="959" height="452" alt="Screenshot 2026-09-12 101155" src="https://github.com/user-attachments/assets/78a1c708-a736-45a2-bd0a-fc4403bcebb6" />
 
+Enter your decision page and environment selection
 <img width="959" height="451" alt="Screenshot 2026-09-12 101205" src="https://github.com/user-attachments/assets/bbfee155-b361-4f70-a1af-424c377156cd" />
 
+Display the potential risk meter and Reactions 
 <img width="683" height="448" alt="Screenshot 2026-09-12 101300" src="https://github.com/user-attachments/assets/ad2e2682-30d5-4d68-bd41-c731e03e556c" />
 
 # Diagrams
@@ -58,16 +60,16 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1iC21S502suMN2jcwuZzE05icFXO6UfyL/view?usp=drivesdk]
+Thinnayile Kaaryam is a humorous AI-powered society reaction scanner that predicts how much “society” might react to a user’s life decision. We have combined machine learning and an LLM to generate a fun risk score, gossip reactions, and a fictional neighbourhood verdict based on the decision and environment
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Sreya Sreejith]: [FrontEnd , UI/UX]
+- [Vandana Menon]: [Backend & API/Data]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
