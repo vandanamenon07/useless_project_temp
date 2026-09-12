@@ -25,8 +25,10 @@ export default function App() {
       environment: selectedEnv
     }
 
+    const apiBaseUrl = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
+
     try {
-      const response = await fetch('/predict', {
+      const response = await fetch(`${apiBaseUrl}/predict`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
